@@ -1,0 +1,17 @@
+
+		    			BLİNK KİT PROJESİ
+[!] KULLANIMI (ROOT YETKİSİYLE AÇIN)
+
+sh blinkkit.sh
+
+yada
+
+./blinkkit.sh
+
+[!] BU PROJE BLİNK CURSOR TARAFINDAN YAPILMIŞTIR!
+
+[!] YAYINLANAN ORJİNAL GİTHUB YOLU github.com/zer00day 'dir!
+
+[!] WEB SİTE : blinkcursor.org
+
+[!] BLİNKOS : blinkos.blinkcursor.org
